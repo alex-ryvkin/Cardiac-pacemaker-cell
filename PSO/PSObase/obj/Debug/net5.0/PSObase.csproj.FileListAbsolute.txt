@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.exe
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.deps.json
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.runtimeconfig.json
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.runtimeconfig.dev.json
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.dll
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\ref\PSObase.dll
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\bin\Debug\net5.0\PSObase.pdb
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.AssemblyInfo.cs
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.dll
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\ref\PSObase.dll
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.pdb
+C:\Users\Alexander\source\reposCS\PSObase\PSObase\obj\Debug\net5.0\PSObase.genruntimeconfig.cache
